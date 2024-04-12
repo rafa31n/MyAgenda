@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428085313297",
+    "project_id": "fir-agenda-15eb6",
+    "storage_bucket": "fir-agenda-15eb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428085313297:android:c656334db00ad972b5d6b0",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationfirebaseagenda18demarzo2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx7q_wj_DFRyaSsljiMF3ZCdjCVVREfK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

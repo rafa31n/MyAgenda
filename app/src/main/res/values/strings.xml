@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Agenda UDB 2024</string>
+
+    <!-- Main -->
+    <string name="Btn_Login">Login</string>
+    <string name="Btn_Registro">Registro</string>
+
+    <!--Registro-->
+    <string name="CrearCuentaTXT">Crear cuenta</string>
+    <string name="NombreEt">Nombres</string>
+    <string name="CorreoEt">Correo electrónico</string>
+    <string name="ContaseñaEt">Contraseña</string>
+    <string name="ConfirmarContraseñaEt">Confirmar contraseña</string>
+    <string name="RegistrarUsuario">Registrar</string>
+    <string name="TengounacuentaTXT">Tengo cuenta</string>
+
+    <!--Login-->
+    <string name="IniciarSesionTXT">Iniciar sesión</string>
+    <string name="CorreoLogin">Correo</string>
+    <string name="PassLogin">Contraseña</string>
+    <string name="Btn_Logeo">Ingresar</string>
+    <string name="UsuarioNuevoTXT">Regístrate si no tienes cuenta</string>
+
+    <!--Menu Principal-->
+    <string name="BienvenidoPrincipal">Bienvenido(a)</string>
+    <string name="UidPrincipal"> -- </string>
+    <string name="NombresPrincipal"> -- </string>
+    <string name="CorreoPrincipal"> -- </string>
+
+    <string name="AgregarNotas">Agregar</string>
+    <string name="ListarNotas">Mis Notas</string>
+    <string name="Archivados">Borrador</string>
+    <string name="Perfil">Perfil</string>
+    <string name="AcercaDe">Acerca De</string>
+    <string name="CerrarSesion">Salir</string>
+
+    <!---Agrear Nota-->
+    <string name="Uid_Usuario"> Uid del usuario</string>
+    <string name="Correo_usuario">Correo de usuario</string>
+    <string name="Fecha_hora_actual">Fecha y hora actual</string>
+    <string name="Titulo"> Título </string>
+    <string name="Descripcion"> Descripcion</string>
+    <string name="Btn_Calendario">Calendario</string>
+    <string name="Fecha"> 00/00/0000 </string>
+    <string name="Estado">Activo</string>
+
+    <!--Menu-->
+    <string name="Agregar_Nota_BD">Agregar</string>
+
+
+    <!--item nota-->
+    <string name="Id_nota_Item">Id nota</string>
+    <string name="Uid_Usuario_Item"> Uid del usuario</string>
+    <string name="Correo_usuario_Item">Correo de usuario</string>
+    <string name="Fecha_hora_registro_Item">Fecha y hora registro</string>
+    <string name="Titulo_Item"> Título </string>
+    <string name="Descripcion_Item"> Descripcion</string>
+    <string name="Fecha_Item"> 00/00/0000 </string>
+    <string name="Estado_Item"> No finalizado</string>
+
+</resources>
